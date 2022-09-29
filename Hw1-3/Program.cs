@@ -7,6 +7,7 @@ string b = Console.ReadLine()!;
 
 int firstNumber = Convert.ToInt32(a) ;
 int secondNumber = Convert.ToInt32(b);
+//FIRST TASK
 /*int multipResult = 0;
 
 for( int i = 0; i < secondNumber; i++)
@@ -17,7 +18,12 @@ multipResult = multipResult + firstNumber;
 }
 
 Console.WriteLine(multipResult);*/
-if (firstNumber < secondNumber)
+
+
+
+//SECOND TASK
+
+/*if (firstNumber < secondNumber)
 {
 
 Console.WriteLine(" error ");
@@ -40,5 +46,7 @@ if (firstNumber <0){
 }
 
 Console.WriteLine("the result is " + i);
-}
+}*/
+
+//THIRD TASK - already done
 
